@@ -1,3 +1,3 @@
 # cp2019
 
-HTTPS://S40823213.GITHUB.IO/CP2019
+https://s40823213.github.io/cp2019
