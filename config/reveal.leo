@@ -67,7 +67,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180902120523.12"># 很開心能夠上這次的計算機概論，在這一堂課中有學到許許多多的東西，並且是以前都不了解的。一開始有很多東西都不懂，但是在慢慢學習之後就融會貫通了。
+<t tx="leo.20180902120523.12">#心得 
+
+很開心能夠上這次的計算機概論，在這一堂課中有學到許許多多的東西，並且是以前都不了解的。一開始有很多東西都不懂，但是在慢慢學習之後就融會貫通了。
 
 </t>
 <t tx="leo.20180902120523.2"></t>
@@ -250,7 +252,7 @@ vertical: body pane on the botton</t>
 * [溫度轉換](https://40823213.github.io/cp2019/reveal/index.html#/2)
 * [重量轉換](https://40823213.github.io/cp2019/reveal/index.html#/3)
 * [國旗](https://40823213.github.io/cp2019/reveal/index.html#/4)
-* [心得](https://40823238.github.io/cp2019/reveal/index.html#/3)
+* [心得](https://40823213.github.io/cp2019/reveal/index.html#/5)
 </t>
 <t tx="leo.20200107211834.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
