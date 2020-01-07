@@ -21,6 +21,12 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200107211425.1"><vh>目錄</vh>
+<v t="leo.20200107211502.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20200107211834.1"><vh>溫度轉換</vh>
+<v t="leo.20200107211853.1"><vh>newHeadline</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -28,19 +34,12 @@
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20200107210155.1"><vh>nigger</vh></v>
 <v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
 </v>
-</v>
-<v t="leo.20200107211425.1"><vh>目錄</vh>
-<v t="leo.20200107211502.1"><vh>newHeadline</vh></v>
-</v>
-<v t="leo.20200107211834.1"><vh>溫度轉換</vh>
-<v t="leo.20200107211853.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 </v>
@@ -330,7 +329,6 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20200107210155.1">&lt;p&gt;&lt;iframe height="600" id="iframe" src="https://dartpad.github.io/embed-html.html?gh_owner=40823213&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/weight_change&amp;theme=dark" width="800"&gt;&lt;/iframe&gt;&lt;/p&gt;</t>
 <t tx="leo.20200107211425.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -339,8 +337,11 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200107211502.1">## 目錄
 
 *[溫度轉換]
+
 *[重量轉換]
+
 *[國旗]
+
 *[心得]</t>
 <t tx="leo.20200107211834.1"></t>
 <t tx="leo.20200107211853.1">&lt;p&gt;&lt;iframe height="600" id="iframe" src="https://dartpad.github.io/embed-html.html?gh_owner=40823213&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/CF&amp;theme=dark" width="800"&gt;&lt;/iframe&gt;&lt;/p&gt;</t>
